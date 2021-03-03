@@ -1,7 +1,0 @@
-chmod 777 *
-
-./luajit $1/main.lua
-
-for entry in `ls $1`; do
-    echo $entry
-done
