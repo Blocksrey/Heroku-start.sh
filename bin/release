@@ -1,3 +1,0 @@
-#./luajit $1/main.lua
-
-echo "ASD"
