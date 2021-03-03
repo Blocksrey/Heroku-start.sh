@@ -1,4 +1,0 @@
-#!/bin/sh
-
-chmod 777 *
-./luajit $1/*
