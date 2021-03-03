@@ -1,2 +1,3 @@
 #!/bin/sh
-echo "Gonna do LuaJIT"
+
+echo "Let's compile"

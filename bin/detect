@@ -1,2 +1,4 @@
 #!/bin/sh
+
 echo "Gonna do LuaJIT"
+exit 0
