@@ -1,1 +1,1 @@
-./luajit
+./luajit $1/*.lua
