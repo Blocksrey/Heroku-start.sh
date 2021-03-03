@@ -1,0 +1,1 @@
+./luajit $1/main.lua
