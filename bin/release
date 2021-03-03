@@ -1,1 +1,3 @@
-./luajit $1/main.lua
+#./luajit $1/main.lua
+
+echo "ASD"
