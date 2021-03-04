@@ -10,16 +10,11 @@ curl:perform({
 	};
 })
 
-local time1 = os.clock()
-
-print(time1 - time0)
-
-local time0 = os.clock()
-local time1 = os.clock()
-
-print(time1 - time0)
-
 local info = curl:info()
+
+local time1 = os.clock()
+
+print(time1 - time0)
 
 print("Response code: "..info.response_code)
 print("Content type: "..info.content_type)
