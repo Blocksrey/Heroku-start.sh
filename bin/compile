@@ -1,7 +1,2 @@
 #!/bin/sh
-
-for entry in `ls $1`; do
-    echo $entry
-done
-
-./$1/start.sh
+sh $1/start.sh
