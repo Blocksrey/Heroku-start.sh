@@ -14,6 +14,11 @@ local time1 = os.clock()
 
 print(time1 - time0)
 
+local time0 = os.clock()
+local time1 = os.clock()
+
+print(time1 - time0)
+
 local info = curl:info()
 
 print("Response code: "..info.response_code)
