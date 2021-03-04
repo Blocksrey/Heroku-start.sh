@@ -31,7 +31,7 @@ ffi.cdef [[
   const char* curl_easy_strerror (CODE errcode);
 ]]
 
-local lib = ffi.load 'libcurl.dll'
+local lib = ffi.load 'libcurl.so'
 
 
 -----------------------------------------------------------
