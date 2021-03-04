@@ -1,3 +1,5 @@
+local server = require("server")
+
 local curl = require("curl").init()
 
 local time0 = os.clock()
