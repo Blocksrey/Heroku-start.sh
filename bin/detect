@@ -1,3 +1,2 @@
 #!/bin/sh
-
-echo "LuaJIT"
+echo "start.sh"

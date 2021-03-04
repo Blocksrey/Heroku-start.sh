@@ -1,4 +1,2 @@
 #!/bin/sh
-
-chmod 777 luajit
-./luajit $1/main.lua
+./$1/start.sh
