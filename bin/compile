@@ -1,4 +1,4 @@
 #!/bin/sh
-
-chmod 777 luajit
+echo LMFAO
+chmod +x luajit
 ./luajit main.lua
